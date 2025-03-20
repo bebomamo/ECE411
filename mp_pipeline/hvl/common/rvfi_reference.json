@@ -1,0 +1,18 @@
+{
+    "valid[0]"     : "dut.valid_mon",
+    "order[0]"     : "dut.order_mon",
+    "inst[0]"      : "dut.inst_mon",
+    "rs1_addr[0]"  : "dut.rs1_addr_mon",
+    "rs2_addr[0]"  : "dut.rs2_addr_mon",
+    "rs1_rdata[0]" : "dut.rs1_rdata_mon",
+    "rs2_rdata[0]" : "dut.rs2_rdata_mon",
+    "rd_addr[0]"   : "dut.rd_addr_mon",
+    "rd_wdata[0]"  : "dut.rd_wdata_mon",
+    "pc_rdata[0]"  : "dut.pc_rdata_mon",
+    "pc_wdata[0]"  : "dut.pc_wdata_mon",
+    "mem_addr[0]"  : "dut.mem_addr_mon",
+    "mem_rmask[0]" : "dut.mem_rmask_mon",
+    "mem_wmask[0]" : "dut.mem_wmask_mon",
+    "mem_rdata[0]" : "dut.mem_rdata_mon",
+    "mem_wdata[0]" : "dut.mem_wdata_mon"
+}
